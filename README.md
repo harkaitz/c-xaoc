@@ -66,6 +66,12 @@ This list is infinite.
 9. Add tests for visualization programs that serve as examples.
 10. Add characters to `xmaze` to represent the player and the goal.
 
+## Screenshots
+
+*XMaze* visualization program displaying a maze.
+
+![xmaze](./xmaze.png)
+
 ## Style guide
 
 This project follows the OpenBSD kernel source file style guide (KNF).
